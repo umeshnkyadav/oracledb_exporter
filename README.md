@@ -4,6 +4,9 @@
 [![GoDoc](https://godoc.org/github.com/iamseth/oracledb_exporter?status.svg)](http://godoc.org/github.com/iamseth/oracledb_exporter)
 [![Report card](https://goreportcard.com/badge/github.com/iamseth/oracledb_exporter)](https://goreportcard.com/badge/github.com/iamseth/oracledb_exporter)
 
+> [!WARNING]
+> Oracle now has an official project [oracle-db-appdev-monitoring](https://github.com/oracle/oracle-db-appdev-monitoring). Please checkout that project as this one is no longer maintained.
+
 ##### Table of Contents
 
 [Description](#description)
